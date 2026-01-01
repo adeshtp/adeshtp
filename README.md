@@ -9,7 +9,7 @@ Currently learning:
 - Working with small real datasets
 
 Projects:
-- **Salary Data Analysis – Glassdoor 2024** → [Repo link once uploaded]  
+- **Salary Data Analysis – Glassdoor 2024** → (https://github.com/adeshtp/salary-data-analysis.git)  
   Cleaned and analyzed a dataset of Glassdoor data science job postings. Extracted salary ranges, normalized job titles, found top-paying industries, and created simple charts to show trends.
 
 Connect with me:
